@@ -24,7 +24,7 @@ Scene::~Scene()
 }
 
 /**
-* sceneを活動状態にする
+* シーンを活動状態にする
 */
 void Scene::Play()
 {
@@ -33,7 +33,7 @@ void Scene::Play()
 }
 
 /**
-* sceneを停止状態にする.
+* シーンを停止状態にする.
 */
 void Scene::Stop()
 {
@@ -42,7 +42,7 @@ void Scene::Stop()
 }
 
 /**
-* sceneを表示する.
+* シーンを表示する.
 */
 void Scene::Show()
 {
@@ -51,7 +51,7 @@ void Scene::Show()
 }
 
 /**
-* sceneを非表示にする.
+* シーンを非表示にする.
 */
 void Scene::Hide()
 {
@@ -60,7 +60,7 @@ void Scene::Hide()
 }
 
 /**
-* scene名を取得する.
+* シーン名を取得する.
 *
 * @return scene名.
 */
