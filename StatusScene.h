@@ -1,3 +1,7 @@
+/**
+* @file StatusScene.h
+*/
+
 #ifndef STATUSSCENE_H_INCLUDED
 #define STATUSSCENE_H_INCLUDED
 #include "Src/Scene.h"
